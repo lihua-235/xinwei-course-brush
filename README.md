@@ -29,10 +29,12 @@
 ## 安装
 
 ```bash
-git clone https://github.com/lihua-235/芯位平台代刷脚本.git
-cd 芯位平台代刷脚本
+git clone https://github.com/lihua-235/xinwei-course-brush.git
+cd xinwei-course-brush
 pip install -r requirements.txt
 ```
+
+> 也可以直接在仓库页面点 **Code → Download ZIP** 下载压缩包，解压后双击 `启动.bat` 使用，无需命令行。
 
 ## 使用
 
